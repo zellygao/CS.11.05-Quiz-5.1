@@ -30,10 +30,8 @@ Method: capitalCount
 
 Helper method: countCapitalLetters
 
+Hint: 'A' = 65 and 'Z' = 90
+
 String[] words = {“Christmas”, “IS”, “comInG”, “!”};
 
 capitalCount(words) → {1, 2, 2, 0}
-
-'A' = 65
-
-'Z' = 90
