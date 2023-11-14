@@ -139,9 +139,6 @@ class MainTest {
     @org.junit.jupiter.api.Test
     void countCapitalLetters() {
 
-//        word = "HellloOOOO!";
-//        wordTwo = "rENeGAde";
-
         int expected = 5;
         int expectedTwo = 4;
 
